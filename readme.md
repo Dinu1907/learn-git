@@ -1,5 +1,6 @@
 # learn about git and github
 
-``` javascript
-console.log('HELLO WORLD')
-```
+
+
+Hello !! My Name is Dinesh I am Learning Git & GitHub
+
